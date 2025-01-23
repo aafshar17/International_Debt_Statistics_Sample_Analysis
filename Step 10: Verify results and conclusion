@@ -1,0 +1,8 @@
+-- Verified results using Power BI visuals and created a mobile-friendly Power BI dashboard. 
+-- Link to it is here: https://app.powerbi.com/groups/me/dashboards/7e11760e-c854-497d-9c8e-108c99785637?ctid=b9df39db-3745-4fc8-8ca3-ed61f6939c13&pbi_source=linkShare
+
+-- In conclusion, the goal of this analysis was to examine debt owed by countries. 
+-- Eliciting a few dataset summary statistics provided a fantastic starting point for understanding the 
+-- debt-related economic issues that plague many of these countries. Further analysis will be needed
+-- to dive deeper into the different creditors that hold these debts as well as other more regional
+-- and classification based summary statistics. 
