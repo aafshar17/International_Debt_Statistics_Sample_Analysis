@@ -5,5 +5,4 @@ The purpose of this project is to use PostgreSQL to analyze international debt d
 
 Here is the [Power BI interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjk2Zjg0NGYtZjc4Yi00YmQ1LWJiZmItZDg0NTA2NmMwYjQyIiwidCI6ImI5ZGYzOWRiLTM3NDUtNGZjOC04Y2EzLWVkNjFmNjkzOWMxMyIsImMiOjZ9) which can also be viewed on mobile.
 
-
-Link to PostgreSQL Code
+Here is the [PostgreSQL Code](https://github.com/aafshar17/International_Debt_Statistics_Sample_Analysis/blob/main/international_debt_statistics_sample_analysis.sql) used to query the dataset. 
