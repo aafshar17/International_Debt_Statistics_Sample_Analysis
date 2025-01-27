@@ -6,3 +6,5 @@
 select * from international_debt_statistics_summary
 limit 10;
 ```
+
+![Step 1 Result](/Step_1_result.jpg)
