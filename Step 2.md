@@ -6,8 +6,10 @@ We want to know the number of different countries that are present in this datas
 Find out the number of unique countries present in the table by using the SELECT DISTINCT statement to return only 
 distinct(different) values for the country_name column. 
 
+```sql
 select * from international_debt_statistics_summary;
 select count(distinct(country_name)) as Total_Distinct_Countries 
 from international_debt_statistics_summary;
+```
 
 ![Step 2 Result](/Step_2_result.jpg)
