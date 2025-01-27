@@ -13,3 +13,5 @@ from international_debt_statistics_summary
 group by debt_indicators
 order by debt_indicators;
 ```
+
+![Step 3 Result](/Step_3_result.jpg)
