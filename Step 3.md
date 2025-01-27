@@ -1,4 +1,4 @@
-**Step 3**: ** Identify the distinct debt indicators**
+**Step 3**: **Identify the distinct debt indicators**
 
 The previous result indicates that there are a total of 124 countries present in this dataset. 
 
