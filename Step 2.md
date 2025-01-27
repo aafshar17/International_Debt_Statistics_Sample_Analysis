@@ -9,4 +9,4 @@ select * from international_debt_statistics_summary;
 select count(distinct(country_name)) as Total_Distinct_Countries 
 from international_debt_statistics_summary;
 
-[Step 2 Result](/Step_2_result.jpg)
+![Step 2 Result](/Step_2_result.jpg)
